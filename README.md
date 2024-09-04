@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Anastasiia-Ilina/Anastasiia-Ilina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjN0cDdkejRrcjB6NWtqZmJ2NmpxMm5sc3J2cnI2ZDVvdzZwY3Q0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qcsGTXHP8JkxaAa0cE/giphy.gif" width="100"/>
 </div>
