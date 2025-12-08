@@ -35,7 +35,6 @@ I am a Data Scients <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - If you are interested in my profile, I will be glad to meet new people through social networks
 
-Now I am a Netology student in the field of Data Sciences and I am very interested in my development in the field of analytics.
 I like working with data, plotting, analyzing dependencies, and making predictions.
 
 
